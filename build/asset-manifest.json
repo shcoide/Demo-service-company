@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1d30ef1.css",
+    "main.js": "/static/js/main.72b67b13.js",
+    "static/js/787.7b95f5e9.chunk.js": "/static/js/787.7b95f5e9.chunk.js",
+    "static/media/manufacturing.jpg": "/static/media/manufacturing.9728a0fe23046d9b4e61.jpg",
+    "static/media/austin-distel-wD1LRb9OeEo-unsplash.jpg": "/static/media/austin-distel-wD1LRb9OeEo-unsplash.3c88cbcebfe748cdc033.jpg",
+    "static/media/cytonn-photography-n95VMLxqM2I-unsplash.jpg": "/static/media/cytonn-photography-n95VMLxqM2I-unsplash.29cff528e10fad8befe1.jpg",
+    "static/media/landing.jpg": "/static/media/landing.8534a5426db7785476b7.jpg",
+    "static/media/shche_-team-J1VahyJ_TP8-unsplash.jpg": "/static/media/shche_-team-J1VahyJ_TP8-unsplash.6563387fa9bc26bf5dd1.jpg",
+    "static/media/corporate.jpg": "/static/media/corporate.174560380a26be61f871.jpg",
+    "static/media/it.jpg": "/static/media/it.873677d268db6c85bb77.jpg",
+    "static/media/fmcg.jpg": "/static/media/fmcg.3752bede6a78db3fa067.jpg",
+    "static/media/startup.jpg": "/static/media/startup.b908afeceeda70e2928d.jpg",
+    "static/media/financial.jpg": "/static/media/financial.f27536c3f8bde8b87838.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/bg.jpg": "/static/media/bg.884211fb6164ba7f2141.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Automobile.jpg": "/static/media/Automobile.82486e702c58862d54ec.jpg",
+    "index.html": "/index.html",
+    "main.e1d30ef1.css.map": "/static/css/main.e1d30ef1.css.map",
+    "main.72b67b13.js.map": "/static/js/main.72b67b13.js.map",
+    "787.7b95f5e9.chunk.js.map": "/static/js/787.7b95f5e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1d30ef1.css",
+    "static/js/main.72b67b13.js"
+  ]
+}
